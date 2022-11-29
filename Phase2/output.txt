@@ -1,0 +1,5 @@
+HELLO WORLD!
+
+
+ terminated abnormally due to Operation Code Error
+IC=3, IR=, C=0, R=, TTL=4, TTC=3, TLL=1, LLC=1
